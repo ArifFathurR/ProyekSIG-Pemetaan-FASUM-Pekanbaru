@@ -1,0 +1,605 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.418609574619,
+          0.50046563166995395
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Tempat" : "Halte Mall SKA",
+        "Gambar" : "Halte Mall SKA.png",
+        "Y" : 0.50046599999999997,
+        "X" : 101.41861,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.456596593253,
+          0.49980852223537198
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Tempat" : "Halte SD H.I MUNANDAR",
+        "Gambar" : "Halte imam munandar.png",
+        "Y" : 0.499809,
+        "X" : 101.456597,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.426106835946,
+          0.50280254677394398
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Tempat" : "Halte trans metro",
+        "Gambar" : "Halte trans metro.png",
+        "Y" : 0.502803,
+        "X" : 101.426107,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.419130031992,
+          0.462253305994002
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Tempat" : "Halte Bus SMP 21",
+        "Gambar" : "Halte Bus SMP 21.png",
+        "Y" : 0.46225300000000002,
+        "X" : 101.41913,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42027049185999,
+          0.50288076775990398
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Tempat" : "Halte Patung Kuda",
+        "Gambar" : "Halte Patung Kuda.png",
+        "Y" : 0.50288100000000002,
+        "X" : 101.42027,
+        "Tingkat_Ke" : "Berat",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441416138674,
+          0.53787466673022
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Tempat" : "Trotoar Pasar Bawah",
+        "Gambar" : "Trotoar Pasar Bawah.png",
+        "Y" : 0.53787499999999999,
+        "X" : 101.441416,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Trotoar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42902352660801,
+          0.57368838948644396
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Tempat" : "Halte Studion Kh Nasution",
+        "Gambar" : "Halte Studion KH Nasution.png",
+        "Y" : 0.57368799999999998,
+        "X" : 101.429024,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.49975926750901,
+          0.50592748152401501
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Tempat" : "Halte Sadar",
+        "Gambar" : "Halte Sadar.png",
+        "Y" : 0.50592700000000002,
+        "X" : 101.499759,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.453662911687,
+          0.50335055425098596
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Tempat" : "Trotoar Sudirman",
+        "Gambar" : "Trotoar Sudirman.png",
+        "Y" : 0.50335099999999999,
+        "X" : 101.45366300000001,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Trotoar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.496647,
+          0.50789410000000001
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Tempat" : "Halte Mesjid Amaliyah1",
+        "Gambar" : "halte Mesjid Amaliyah1.jpg",
+        "Y" : 0.50789399999999996,
+        "X" : 101.496647,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.472599,
+          0.52359889999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Tempat" : "Halte aras",
+        "Gambar" : "halte aras.jpg",
+        "Y" : 0.52359900000000004,
+        "X" : 101.472599,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4852281,
+          0.51673639999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Tempat" : "Halte Segar",
+        "Gambar" : "halte Segar.jpg",
+        "Y" : 0.51673599999999997,
+        "X" : 101.48522800000001,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.49164639999999,
+          0.51091600000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Tempat" : "Halte Sumatra Mart",
+        "Gambar" : "Halte Sumatera Mart.jpg",
+        "Y" : 0.51091600000000004,
+        "X" : 101.491646,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4937819,
+          0.50895610000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Tempat" : "Halte Plaza Ternak II",
+        "Gambar" : "halte PLaza Ternak II.png",
+        "Y" : 0.50895599999999996,
+        "X" : 101.493782,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4894547,
+          0.51344820000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Tempat" : "Halte Harapan Raya",
+        "Gambar" : "Halte Harapan Raya.png",
+        "Y" : 0.51344800000000002,
+        "X" : 101.48945500000001,
+        "Tingkat_Ke" : "Berat",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44580000000001,
+          0.5131
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Tempat" : "Jalan Pepaya",
+        "Gambar" : "Jalan Pepaya.png",
+        "Y" : 0.5131,
+        "X" : 101.44580000000001,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Jalan Raya"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4342,
+          0.53139999999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Tempat" : "Jalan Melur",
+        "Gambar" : "Jalan Melur.png",
+        "Y" : 0.53139999999999998,
+        "X" : 101.4342,
+        "Tingkat_Ke" : "Berat",
+        "Kategori" : "Jalan Raya"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4328,
+          0.52610000000000001
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Tempat" : "Jalan Lily",
+        "Gambar" : "Jalan Lily.png",
+        "Y" : 0.52610000000000001,
+        "X" : 101.4328,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Jalan Raya"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42359999999999,
+          0.53500000000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Tempat" : "Halte Mall Ciputra",
+        "Gambar" : "Halte Mall Ciputra.png",
+        "Y" : 0.53500000000000003,
+        "X" : 101.42359999999999,
+        "Tingkat_Ke" : "Berat",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4286,
+          0.5353
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Tempat" : "Jalan Kuras",
+        "Gambar" : "Jalan Kuras.png",
+        "Y" : 0.5353,
+        "X" : 101.4286,
+        "Tingkat_Ke" : "Berat",
+        "Kategori" : "Jalan Raya"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.418629153515,
+          0.57439215060919002
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Tempat" : "Masjid Al Muhajirin",
+        "Gambar" : "Masjid Al Muhajirin.png",
+        "Y" : 0.57439200000000001,
+        "X" : 101.418629,
+        "Tingkat_Ke" : "Ringan",
+        "Kategori" : "Tempat Ibadah"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.431520251374,
+          0.56609703736365702
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Tempat" : "Masjid Jami' Al Badr",
+        "Gambar" : "Masjid Jami_ Al Badr.png",
+        "Y" : 0.56609699999999996,
+        "X" : 101.43152000000001,
+        "Tingkat_Ke" : "Ringan",
+        "Kategori" : "Tempat Ibadah"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43752289555199,
+          0.515233740305855
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Tempat" : "Gereja HKBP Sukajadi",
+        "Gambar" : "Gereja HKBP Sukajadi.png",
+        "Y" : 0.51523399999999997,
+        "X" : 101.437523,
+        "Tingkat_Ke" : "Ringan",
+        "Kategori" : "Tempat Ibadah"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.403060925022,
+          0.58289766968420398
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Tempat" : "Vihara Satya Dharma",
+        "Gambar" : "Vihara Satya Dharma.png",
+        "Y" : 0.58289800000000003,
+        "X" : 101.40306099999999,
+        "Tingkat_Ke" : "Ringan",
+        "Kategori" : "Tempat Ibadah"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.450886656956,
+          0.52695276442036498
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Tempat" : "Masjid Raya An-Nur Provinsi Riau",
+        "Gambar" : "Masjid Raya An-Nur Provinsi Riau.png",
+        "Y" : 0.526953,
+        "X" : 101.45088699999999,
+        "Tingkat_Ke" : "Ringan",
+        "Kategori" : "Tempat Ibadah"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.3801095,
+          0.46439279999999999
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Tempat" : "Halte Bus Mona Plaza",
+        "Gambar" : "Halte Bus Mona Plaza.png",
+        "Y" : 0.464393,
+        "X" : 101.38011,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.454511,
+          0.48963089999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Tempat" : "TPS Kec. Tangkerang Tengah",
+        "Gambar" : "TPS Kec. Tangkerang Tengah.png",
+        "Y" : 0.48963099999999998,
+        "X" : 101.454511,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Tempat Pembuangan Sampah"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4843533,
+          0.50163000000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Tempat" : "Halte Bukit Barisan",
+        "Gambar" : "Halte Bukit Barisan.png",
+        "Y" : 0.50163000000000002,
+        "X" : 101.484353,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4178835,
+          0.45501750000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Tempat" : "Halte Damai Langgeng 2",
+        "Gambar" : "Halte Damai Langgeng 2.png",
+        "Y" : 0.45501799999999998,
+        "X" : 101.417884,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42503379999999,
+          0.43630190000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Tempat" : "Halte Sidomulyo",
+        "Gambar" : "Halte Sidomulyo.png",
+        "Y" : 0.43630200000000002,
+        "X" : 101.425034,
+        "Tingkat_Ke" : "Sedang",
+        "Kategori" : "Halte Bus"
+      }
+    }
+  ]
+}
